@@ -36,8 +36,6 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Yashwanth-N17&theme=radical" />
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanth-N17&theme=react-dark" />
-<br/>
 
 <h3 align="center">🤝 Connect With Me</h3>
 <p align="center">
