@@ -1,54 +1,174 @@
-<h1 align="center">Hi, I'm Yashwanth N 👋</h1>
-<h3 align="center">Aspiring Full-Stack Developer | JavaScript • C++ • React Native</h3>
+# <h1 align="center">Hey 👋, I'm Yashwanth N</h1>
 
-<p align="center">
-  Passionate about building <b>scalable backend systems</b> and strong problem-solving logic using 
-  <b>C++</b>.
-  <br/>
-  Currently developing modern web & <b>mobile applications</b> with <b>JavaScript</b>, <b>React.js</b>, and <b>React Native</b>, while
-  exploring backend architecture and APIs.
+<h3 align="center">Backend Developer • Full Stack Engineer • React Native Developer 🚀</h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Yashwanth-N17&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  🔭 Working on <b>Backend Development, Full-Stack & Mobile Projects</b><br/>
-  🌱 Learning <b>Advanced JavaScript (Async, APIs, Backend, React Native)</b><br/>
-  💡 Interested in <b>System Design, Data Structures, APIs & Cross-Platform Apps</b><br/>
-  📱 Building <b>Cross-Platform Mobile Apps with React Native</b><br/>
-  📫 Reach me at: 
-  <a href="mailto:yashwanthn1708@gmail.com">yashwanthn1708@gmail.com</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=850&lines=Backend+Developer;Full+Stack+Engineer;React+Native+Developer;System+Design+Learner;Building+Scalable+Applications;Always+Learning+Something+New" />
 </p>
 
-<br/>
+---
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+# 👨‍💻 About Me
+
+I'm a Computer Science student passionate about building scalable software and solving real-world problems through technology.
+
+My primary focus is backend engineering, where I enjoy designing REST APIs, optimizing databases, and building reliable systems. Alongside backend development, I build full-stack web applications and cross-platform mobile apps while continuously improving my problem-solving and software engineering skills.
+
+* 🚀 Building scalable Full Stack & React Native applications
+* ⚙️ Passionate about Backend Engineering & API Design
+* 📚 Learning System Design, Cloud Computing & Agentic AI
+* 🧩 Practicing Data Structures & Algorithms using C++
+* 🌱 Exploring DevOps, Docker & Kubernetes
+* 💡 Building products that solve real-world problems
+* 📫 Reach me at **[yashwanthn1708@gmail.com](mailto:yashwanthn1708@gmail.com)**
+
+---
+
+# 🌐 Let's Connect
+
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yashwanthn1708@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Yashwanth-N17">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LEETCODE_PROFILE">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 </p>
 
-<br/>
+---
 
-<h3 align="center">📊 GitHub Stats</h3>
+# 💻 Tech Stack
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yashwanth-N17&theme=radical" />
+
+<img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,python,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,firebase,docker,git,github,linux,vscode,postman&perline=10"/>
+
 </p>
 
-<br/>
+---
 
-<h3 align="center">🤝 Connect With Me</h3>
+# 🚀 What I'm Currently Working On
+
+```yaml
+🛠️ Building:
+  - PrintLink — Distributed Smart Printing Platform
+  - Scalable Backend APIs with Node.js & Express
+  - Full Stack Web Applications
+  - Cross-Platform Mobile Apps with React Native
+
+📚 Learning:
+  - Backend Engineering & System Design
+  - Docker, Kubernetes & Cloud Computing
+  - Agentic AI & AI Integrations
+
+🧠 Sharpening:
+  - Data Structures & Algorithms (C++)
+  - Database Design & Query Optimization
+  - Software Architecture & Design Patterns
+  - Authentication & Backend Security
+
+🌱 Exploring:
+  - Microservices & Distributed Systems
+  - DevOps & CI/CD
+  - Open Source Contributions
+
+🎯 Mission:
+  - Build scalable, production-ready software that creates real-world impact.
+```
+
+---
+
+# 🌟 Featured Project
+
+## 🖨️ PrintLink
+
+A distributed smart printing platform that enables users to securely upload documents and print them from connected printers anywhere.
+
+### Features
+
+* 📄 Secure File Upload
+* 🖨️ Multi-Printer Support
+* 📦 Queue Management
+* 💳 Payment Integration
+* 📊 Print Analytics
+* ⚡ Real-Time Print Status
+
+---
+
+# 📊 GitHub Analytics
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/yashwanth-n-400075331" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:yashwanthn1708@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashwanth-N17&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth-N17&layout=compact&theme=transparent&hide_border=true"/>
+
 </p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Yashwanth-N17&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanth-N17&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+# 📚 Currently Exploring
+
+```text
+⚙️ Backend Engineering
+
+🏗️ System Design
+
+📦 REST APIs & Microservices
+
+📱 React Native Development
+
+☁️ Docker • Kubernetes • Cloud
+
+🤖 Agentic AI
+
+🌍 Open Source Contributions
+```
+
+---
+
+# 🎯 2026 Goals
+
+* 🚀 Launch PrintLink as a production-ready platform
+* ⚙️ Master Backend Engineering & System Design
+* ☁️ Learn Kubernetes & Cloud Infrastructure
+* 🌍 Contribute to Open Source Projects
+* 🧩 Solve 500+ DSA Problems
+* 📱 Build impactful Full Stack & Mobile Applications
+
+---
+
+<div align="center">
+
+### 💭 *"Code with purpose. Build for impact. Never stop learning."*
+
+⭐ Thanks for visiting my profile!
+
+</div>
