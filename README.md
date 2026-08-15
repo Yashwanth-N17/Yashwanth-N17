@@ -66,10 +66,10 @@ My primary focus is backend engineering, where I enjoy designing REST APIs, opti
 
 ```yaml
 🛠️ Building:
-  - PrintLink — Distributed Smart Printing Platform
   - Scalable Backend APIs with Node.js & Express
   - Full Stack Web Applications
   - Cross-Platform Mobile Apps with React Native
+  - Developer-focused tools and open-source projects
 
 📚 Learning:
   - Backend Engineering & System Design
@@ -90,23 +90,6 @@ My primary focus is backend engineering, where I enjoy designing REST APIs, opti
 🎯 Mission:
   - Build scalable, production-ready software that creates real-world impact.
 ```
-
----
-
-# 🌟 Featured Project
-
-## 🖨️ PrintLink
-
-A distributed smart printing platform that enables users to securely upload documents and print them from connected printers anywhere.
-
-### Features
-
-* 📄 Secure File Upload
-* 🖨️ Multi-Printer Support
-* 📦 Queue Management
-* 💳 Payment Integration
-* 📊 Print Analytics
-* ⚡ Real-Time Print Status
 
 ---
 
@@ -156,12 +139,12 @@ A distributed smart printing platform that enables users to securely upload docu
 
 # 🎯 2026 Goals
 
-* 🚀 Launch PrintLink as a production-ready platform
 * ⚙️ Master Backend Engineering & System Design
 * ☁️ Learn Kubernetes & Cloud Infrastructure
 * 🌍 Contribute to Open Source Projects
 * 🧩 Solve 500+ DSA Problems
 * 📱 Build impactful Full Stack & Mobile Applications
+* 🚀 Build and publish useful developer-focused projects
 
 ---
 
