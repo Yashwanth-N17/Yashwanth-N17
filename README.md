@@ -1,34 +1,169 @@
-# <h1 align="center">Hey 👋, I'm Yashwanth N</h1>
+<h1 align="center">Hey 👋, I'm Yashwanth N</h1>
 
-<h3 align="center">Backend Developer • Full Stack Engineer • React Native Developer 🚀</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Yashwanth-N17&label=Profile%20Views&color=0e75b6&style=flat" />
+<p align="center">
+  <strong>Backend-Focused Software Engineer • Full-Stack Developer • Open-Source Builder</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=850&lines=Backend+Developer;Full+Stack+Engineer;React+Native+Developer;System+Design+Learner;Building+Scalable+Applications;Always+Learning+Something+New" />
+  <a href="https://github.com/Yashwanth-N17">
+    <img src="https://img.shields.io/github/followers/Yashwanth-N17?label=Followers&style=flat" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Yashwanth-N17&label=Profile%20Views&style=flat" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a Computer Science student passionate about building scalable software and solving real-world problems through technology.
+I'm a Computer Science student focused on **backend engineering, software architecture, and developer tooling**.
 
-My primary focus is backend engineering, where I enjoy designing REST APIs, optimizing databases, and building reliable systems. Alongside backend development, I build full-stack web applications and cross-platform mobile apps while continuously improving my problem-solving and software engineering skills.
+I enjoy understanding how systems work internally, designing APIs, working with databases, and turning engineering problems into practical software.
 
-* 🚀 Building scalable Full Stack & React Native applications
-* ⚙️ Passionate about Backend Engineering & API Design
-* 📚 Learning System Design, Cloud Computing & Agentic AI
-* 🧩 Practicing Data Structures & Algorithms using C++
-* 🌱 Exploring DevOps, Docker & Kubernetes
-* 💡 Building products that solve real-world problems
-* 📫 Reach me at **[yashwanthn1708@gmail.com](mailto:yashwanthn1708@gmail.com)**
+Currently, I'm focused on strengthening my backend fundamentals, exploring system design, and building software that solves real engineering problems.
+
+* ⚙️ Backend development with **Node.js, Express & TypeScript**
+* 🏗️ Interested in **API design, software architecture & system design**
+* 📦 Building and publishing **open-source developer tools**
+* 🧩 Practicing **Data Structures & Algorithms with C++**
+* 🐳 Exploring **Docker, Kubernetes & cloud infrastructure**
+* 🤖 Exploring practical **AI/LLM integrations**
+* 🌍 Interested in contributing to **open source**
 
 ---
 
-# 🌐 Let's Connect
+## 🚀 Current Project
+
+### 📦 RouteUI
+
+An open-source developer tool for **automatically discovering and visualizing routes in Express applications**.
+
+RouteUI explores Express's runtime routing structure to discover routes, nested routers, and middleware chains, and presents them through an interactive documentation interface.
+
+**Current focus:**
+
+* Runtime route discovery
+* Nested router support
+* Middleware chain detection
+* Interactive API documentation
+* OpenAPI generation
+* TypeScript package architecture
+* npm package distribution
+* Developer experience
+
+> Building tools that make backend development easier.
+
+---
+
+## 🧠 Engineering Interests
+
+```text
+Backend Engineering
+        ↓
+API Design
+        ↓
+Database Design
+        ↓
+Software Architecture
+        ↓
+System Design
+        ↓
+Cloud & Infrastructure
+```
+
+I'm particularly interested in understanding **how systems work internally and why engineering decisions are made**, rather than simply learning frameworks.
+
+---
+
+## 🛠️ Technologies
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,python" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma" />
+</p>
+
+### Frontend & Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,reactnative" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,postman" />
+</p>
+
+---
+
+## 📚 Currently Focusing On
+
+### Backend Engineering
+
+* API design & architecture
+* Authentication & authorization
+* Database design
+* PostgreSQL & query optimization
+* TypeScript backend development
+* Testing & error handling
+
+### System Design
+
+* Data modelling
+* Service boundaries
+* Scalability & trade-offs
+* Reliability
+* Distributed systems fundamentals
+
+### Problem Solving
+
+* Data Structures & Algorithms
+* Competitive programming
+* Algorithmic problem solving with C++
+
+### Infrastructure
+
+* Docker
+* Kubernetes
+* CI/CD
+* Cloud fundamentals
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashwanth-N17&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth-N17&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yashwanth-N17&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🎯 2026 Focus
+
+```text
+01  Strengthen Backend Engineering
+02  Build deeper System Design fundamentals
+03  Ship and maintain open-source projects
+04  Improve DSA & problem solving
+05  Learn Docker, Kubernetes & Cloud
+06  Build fewer but substantially better projects
+07  Contribute to Open Source
+```
+
+---
+
+## 🌐 Connect
 
 <p align="center">
 
@@ -37,7 +172,7 @@ My primary focus is backend engineering, where I enjoy designing REST APIs, opti
 </a>
 
 <a href="mailto:yashwanthn1708@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Yashwanth-N17">
@@ -52,106 +187,6 @@ My primary focus is backend engineering, where I enjoy designing REST APIs, opti
 
 ---
 
-# 💻 Tech Stack
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,python,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,firebase,docker,git,github,linux,vscode,postman&perline=10"/>
-
+  <i>Build useful things. Understand how they work. Keep improving.</i>
 </p>
-
----
-
-# 🚀 What I'm Currently Working On
-
-```yaml
-🛠️ Building:
-  - Scalable Backend APIs with Node.js & Express
-  - Full Stack Web Applications
-  - Cross-Platform Mobile Apps with React Native
-  - Developer-focused tools and open-source projects
-
-📚 Learning:
-  - Backend Engineering & System Design
-  - Docker, Kubernetes & Cloud Computing
-  - Agentic AI & AI Integrations
-
-🧠 Sharpening:
-  - Data Structures & Algorithms (C++)
-  - Database Design & Query Optimization
-  - Software Architecture & Design Patterns
-  - Authentication & Backend Security
-
-🌱 Exploring:
-  - Microservices & Distributed Systems
-  - DevOps & CI/CD
-  - Open Source Contributions
-
-🎯 Mission:
-  - Build scalable, production-ready software that creates real-world impact.
-```
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashwanth-N17&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth-N17&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Yashwanth-N17&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanth-N17&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
-
-# 📚 Currently Exploring
-
-```text
-⚙️ Backend Engineering
-
-🏗️ System Design
-
-📦 REST APIs & Microservices
-
-📱 React Native Development
-
-☁️ Docker • Kubernetes • Cloud
-
-🤖 Agentic AI
-
-🌍 Open Source Contributions
-```
-
----
-
-# 🎯 2026 Goals
-
-* ⚙️ Master Backend Engineering & System Design
-* ☁️ Learn Kubernetes & Cloud Infrastructure
-* 🌍 Contribute to Open Source Projects
-* 🧩 Solve 500+ DSA Problems
-* 📱 Build impactful Full Stack & Mobile Applications
-* 🚀 Build and publish useful developer-focused projects
-
----
-
-<div align="center">
-
-### 💭 *"Code with purpose. Build for impact. Never stop learning."*
-
-⭐ Thanks for visiting my profile!
-
-</div>
